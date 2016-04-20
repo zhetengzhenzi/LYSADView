@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '487F8B5A3DD14F7ABD1DCA34'
+               BlueprintIdentifier = '7F7E8F319F51354F4950FBE8'
                BlueprintName = 'LYSADView'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'LYSADView.framework'>

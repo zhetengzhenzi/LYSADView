@@ -1,5 +1,6 @@
 PODS:
-  - LYSADView (0.0.1)
+  - LYSADView (0.0.1):
+    - SDWebImage (~> 3.7.2)
   - SDWebImage (3.7.5):
     - SDWebImage/Core (= 3.7.5)
   - SDWebImage/Core (3.7.5)
@@ -13,7 +14,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  LYSADView: 3adcd6a1285e5707dea721163ab040baa9879cd0
+  LYSADView: c5b4a1832f1851f242f234770cbaf22338ce90d1
   SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
 
 COCOAPODS: 0.39.0

@@ -1,7 +1,7 @@
 {
   "name": "LYSADView",
   "version": "0.0.1",
-  "summary": "",
+  "summary": "Display ads round figure 展示广告轮播图",
   "homepage": "https://github.com/zhetengzhenzi/LYSADView",
   "license": "MIT",
   "authors": {
@@ -18,6 +18,11 @@
   "resource_bundles": {
     "LYSADView": [
       "LYSADView/Assets/*.png"
+    ]
+  },
+  "dependencies": {
+    "SDWebImage": [
+      "~> 3.7.2"
     ]
   }
 }

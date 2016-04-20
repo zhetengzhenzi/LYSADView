@@ -85,7 +85,9 @@ strip_invalid_archs() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "Pods-LYSADView_Example/LYSADView.framework"
+  install_framework "Pods-LYSADView_Example/SDWebImage.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "Pods-LYSADView_Example/LYSADView.framework"
+  install_framework "Pods-LYSADView_Example/SDWebImage.framework"
 fi

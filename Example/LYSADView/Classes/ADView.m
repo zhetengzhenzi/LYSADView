@@ -9,6 +9,7 @@
 #import "ADView.h"
 #import "UIImageView+WebCache.h"
 
+
 // 屏幕宽度
 #define ScreenWidth [UIScreen mainScreen].bounds.size.width
 // 屏幕高度
