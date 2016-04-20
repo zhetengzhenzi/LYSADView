@@ -1,0 +1,19 @@
+PODS:
+  - LYSADView (0.0.1)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+
+DEPENDENCIES:
+  - LYSADView (from `../`)
+  - SDWebImage (~> 3.7.2)
+
+EXTERNAL SOURCES:
+  LYSADView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LYSADView: 3adcd6a1285e5707dea721163ab040baa9879cd0
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+
+COCOAPODS: 0.39.0

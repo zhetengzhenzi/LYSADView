@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'LYSADView_Example', :exclusive => true do
+  pod 'LYSADView', :path => '../'
+end
+
+target 'LYSADView_Tests', :exclusive => true do
+  pod 'LYSADView', :path => '../'
+
+  pod 'SDWebImage', '~> 3.7.2'
+
+end

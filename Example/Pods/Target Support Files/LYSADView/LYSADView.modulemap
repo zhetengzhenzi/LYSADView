@@ -1,0 +1,6 @@
+framework module LYSADView {
+  umbrella header "LYSADView-umbrella.h"
+
+  export *
+  module * { export * }
+}
