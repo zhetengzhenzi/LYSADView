@@ -1,4 +1,5 @@
 # LYSADView
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/liuyushuang@duia.com/LYSADView.svg?style=flat)](https://travis-ci.org/liuyushuang@duia.com/LYSADView)
 [![Version](https://img.shields.io/cocoapods/v/LYSADView.svg?style=flat)](http://cocoapods.org/pods/LYSADView)
@@ -27,3 +28,6 @@ liuyushuang@duia.com, liuyushuang@duia.com
 ## License
 
 LYSADView is available under the MIT license. See the LICENSE file for more info.
+=======
+Display ads round figure。展示广告轮播图。
+>>>>>>> 5a85433339b9391cb1f3cf601c97e611ac22dbec
